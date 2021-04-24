@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="google.PesquisaGoogle" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-04-24T19:57:07" hostname="DESKTOP-T9ITH8T" time="52.312">
+  <properties/>
+  <testcase name="pesquisaProduto[0]" classname="google.PesquisaGoogle" time="9.35"/>
+  <testcase name="pesquisaProduto[1]" classname="google.PesquisaGoogle" time="9.018"/>
+  <testcase name="pesquisaProduto[2]" classname="google.PesquisaGoogle" time="7.954"/>
+  <testcase name="pesquisaProduto[3]" classname="google.PesquisaGoogle" time="8.905"/>
+  <testcase name="pesquisaProduto[4]" classname="google.PesquisaGoogle" time="8.144"/>
+  <testcase name="pesquisaProduto[5]" classname="google.PesquisaGoogle" time="8.941"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 5751
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+abr 24, 2021 4:57:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+Starting MSEdgeDriver 90.0.818.46 (32aa22d4a337c9235ee6cdfb02b6a98778d26c1f) on port 1122
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping MSEdgeDriver safe.
+MSEdgeDriver was started successfully.
+abr 24, 2021 4:57:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 28027
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+abr 24, 2021 4:57:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+Starting MSEdgeDriver 90.0.818.46 (32aa22d4a337c9235ee6cdfb02b6a98778d26c1f) on port 18655
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping MSEdgeDriver safe.
+MSEdgeDriver was started successfully.
+abr 24, 2021 4:57:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 18705
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+abr 24, 2021 4:57:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+Starting MSEdgeDriver 90.0.818.46 (32aa22d4a337c9235ee6cdfb02b6a98778d26c1f) on port 42425
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping MSEdgeDriver safe.
+MSEdgeDriver was started successfully.
+abr 24, 2021 4:57:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+]]></system-err>
+</testsuite>

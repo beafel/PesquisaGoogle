@@ -82,8 +82,8 @@ public class PesquisaGoogle {
     @BeforeClass
     public static void antesDeTudo(){
         url = "https://www.google.com.br/";
-        System.setProperty("webdriver.chrome.driver","drivers/chrome/chromedriver90.exe");
-        System.setProperty("webdriver.edge.driver","drivers/edge/msedgedriver90.exe");
+        System.setProperty("webdriver.chrome.driver","drivers/chrome/chromedriver96.exe");
+        System.setProperty("webdriver.edge.driver","drivers/edge/msedgedriver96.exe");
     }
 
     @Before

@@ -82,8 +82,8 @@ public class PesquisaGoogle {
     @BeforeClass
     public static void antesDeTudo(){
         url = "https://www.google.com.br/";
-        System.setProperty("webdriver.chrome.driver","drivers/chrome/chromedriver96.exe");
-        System.setProperty("webdriver.edge.driver","drivers/edge/msedgedriver96.exe");
+        System.setProperty("webdriver.chrome.driver","drivers/chrome/chromedriver100.exe");
+        System.setProperty("webdriver.edge.driver","drivers/edge/msedgedriver100.exe");
     }
 
     @Before
@@ -121,7 +121,7 @@ public class PesquisaGoogle {
         driver.getTitle();
 
         // Valida a pesquisa pelo produto
-        assertEquals("Anúncios·",driver.findElement(By.cssSelector("span.dH53Z.VqFMTc.p8AiDd")).getText());
-        assertTrue(driver.findElement(By.cssSelector("span.N6sL8d")).getText().contains(produto));
+        assertEquals("Anúncios·Comprar " + produto,driver.findElement(By.cssSelector("div.dxR8gf")).getText());
+        //assertTrue(driver.findElement(By.cssSelector("div.Qq9jLd")).getText().contains(produto));
     }
 }
